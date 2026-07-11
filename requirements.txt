@@ -1,1 +1,9 @@
-
+faker
+mysql-connector-python
+pymongo
+redis
+neo4j
+cassandra-driver
+pandas
+numpy
+openpyxl
