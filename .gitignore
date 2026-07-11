@@ -1,1 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Python Cache
+*.pyo
+
+# Environment Variables
+.env
+
+# Compiled Python
+*.so
+
+# Temporary Files
+*.tmp
+
+# Generated Dataset (if regenerated)
+datasets/*.csv
+datasets/*.xlsx
+
+# Benchmark Output (optional)
+benchmark_results/*.tmp
