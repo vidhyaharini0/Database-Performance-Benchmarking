@@ -180,8 +180,8 @@ Database-Performance-Benchmarking/
 │   ├── neo4j_query_execution_times.xlsx
 │   └── Graphs.xlsx
 │
-├── report/
-│   └── Database_Project_Report.pdf
+├── data-generation/
+│   └── faker_code_1mil.py
 │
 ├── Dockerfile
 ├── docker-compose.yml
